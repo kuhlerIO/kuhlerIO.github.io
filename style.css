@@ -1,0 +1,55 @@
+body {
+    background-image:url('https://images.pexels.com/photos/4253690/pexels-photo-4253690.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+img {
+    width: 150px;
+    border-radius: 75px;
+    float: left;
+    margin-left: 20px;
+    margin-right: 430px;
+}
+
+.topnav a {
+    float: left;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #FD841F;
+    text-decoration: none;
+    padding: 16px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.topnav a:hover {
+    background-color: #FFF600;
+    color: black;
+}
+
+.center {
+    text-align: center;
+}
+
+.center h1 {
+    color: #FFF600;
+    font-size: 100px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   
+}
+
+.center span {
+    font-size: 25px;
+    font-family: cursive;
+    color: #FF005C;
+    background-color: wheat;
+}
+
+.center a {
+    color: white;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+    text-decoration: none;
+}
